@@ -6,6 +6,8 @@ A year of café sales where 69% of the records had an error, cleaned so that 99.
 
 **Owner report:** [report/cafe_data_quality_report.pdf](report/cafe_data_quality_report.pdf)
 
+   ![Rescue results](images/09_chart_rescue_results.png)
+   
 ---
 
 ## The business problem
