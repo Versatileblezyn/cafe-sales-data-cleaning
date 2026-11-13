@@ -6,6 +6,8 @@ A year of café sales where 69% of the records had an error, cleaned so that 99.
 
 **Owner report:** [report/cafe_data_quality_report.pdf](report/cafe_data_quality_report.pdf)
 
+**Article:** [Read the full story on Medium](https://medium.com/@osazuwa2017blessing/69-of-this-cafés-sales-records-were-broken-i-didn-t-delete-any-of-them-449d0d03f9a5)
+
    ![Rescue results](images/09_chart_rescue_results.png)
    
 ---
